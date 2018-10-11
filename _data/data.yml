@@ -25,19 +25,19 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Marathi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hindi
+        level: Native
         
     interests:
-      - item: Climbing
+      - item: Listening EDM 
         link:
 
-      - item: Snowboarding
+      - item: Surfing
         link:
 
       - item: Cooking
@@ -46,13 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        To obtain a position of Cloud Engineer or an Devops Engineer,  where I can constantly learn and contribute my expertise for successful solution to the problems.
 
 education:
     - degree: MSc in Computer Science

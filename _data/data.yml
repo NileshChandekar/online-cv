@@ -145,10 +145,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Linux Troubleshooting
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Openstack
         level: 98%
 
       - name: Angular

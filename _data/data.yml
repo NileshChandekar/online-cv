@@ -66,14 +66,22 @@ experiences:
         - Installation, Configuration Openstack environment for various customers.
 
         - Openstack deployment , integration and troubleshooting cases coming to my plate.
-    	  - Database management for Openstack environemnt (MariaDB/Galera Cluster).
-    	  - DB management , Keystone Management
-    	  - As a tech support troubleshooting various cases on various components like, Nova, Cinder, Glance, Keystone,
+
+        - Database management for Openstack environemnt (MariaDB/Galera Cluster).
+
+        - DB management , Keystone Management
+
+        - As a tech support troubleshooting various cases on various components like, Nova, Cinder, Glance, Keystone,
         Galera, Openstack Deployment, Ceilometer, Horizon, Gnocchi, Neutron etc....
+
         - Train customer of all shape, size and experience level daily in order to maximize ecosystem of there business.
+
         - Serve as thought-leader in Openstack community, by contributing to forums and resource articles.
+
         - Conducting Openstack seminar for Various Outriched programs.
+
         - Report upstream bugs and and maintain the most up-to-date openstack knowledge and certification.
+
         - Improve operatabiltiy and supportabilty of Openstack at various levels.
 
 

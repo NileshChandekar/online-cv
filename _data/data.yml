@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -32,9 +32,9 @@ sidebar:
 
       - idiom: Hindi
         level: Native
-        
+
     interests:
-      - item: Listening EDM 
+      - item: Listening EDM
         link:
 
       - item: Surfing
@@ -53,19 +53,19 @@ education:
       university: Nagpur University, Maharashtra
       time: 2009 - 2012
 
-    - degree: B.C.A in Computers and Accounting 
+    - degree: B.C.A in Computers and Accounting
       university: Nagpur University
       time: 2006 - 2009
 
 experiences:
     - role: Sr. Openstack Engineer
-      time: 2018 - Present
-      company: Red Hat India Pvt. Ltd. 
+      time: 2016 - Present
+      company: Red Hat India Pvt. Ltd.
       details: |
         escribe your role here lorem ipsum dolor sit amet.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
